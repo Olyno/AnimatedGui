@@ -1,0 +1,96 @@
+6_rows:
+    frames:
+        '0':
+            duration: 0 second
+            slots:
+                '35':
+                    item: blue glass
+                '26':
+                    item: blue glass
+        '1':
+            duration: 0 second
+            slots:
+                '17':
+                    item: blue glass
+                '44':
+                    item: blue glass
+        '2':
+            duration: 0 second
+            slots:
+                '8':
+                    item: blue glass
+                '53':
+                    item: blue glass
+        '3':
+            duration: 0 second
+            slots:
+                '7':
+                    item: blue glass
+                '52':
+                    item: blue glass
+        '4':
+            duration: 0 second
+            slots:
+                '6':
+                    item: blue glass
+                '51':
+                    item: blue glass
+        '5':
+            duration: 0 second
+            slots:
+                '5':
+                    item: blue glass
+                '50':
+                    item: blue glass
+        '6':
+            duration: 0 second
+            slots:
+                '4':
+                    item: blue glass
+                '49':
+                    item: blue glass
+        '7':
+            duration: 0 second
+            slots:
+                '3':
+                    item: blue glass
+                '48':
+                    item: blue glass
+        '8':
+            duration: 0 second
+            slots:
+                '2':
+                    item: blue glass
+                '47':
+                    item: blue glass
+        '9':
+            duration: 0 second
+            slots:
+                '1':
+                    item: blue glass
+                '46':
+                    item: blue glass
+        '10':
+            duration: 0 second
+            slots:
+                '0':
+                    item: blue glass
+                '45':
+                    item: blue glass
+        '11':
+            duration: 0 second
+            slots:
+                '9':
+                    item: blue glass
+                '36':
+                    item: blue glass
+        '12':
+            duration: 0 second
+            slots:
+                '18':
+                    item: blue glass
+                '27':
+                    item: blue glass
+    only_item: blue glass
+    time: 3 ticks
+    sound_per_frame: block.anvil.break
