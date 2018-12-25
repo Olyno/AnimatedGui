@@ -5,7 +5,7 @@ Animate your guis in Skript!
 
 **How can I install this tool?**
 
-> Download it and put it in the **"plugins/Skript/scripts"** folder. Then download the addons he needs:
+> Download it and put it in the **"plugins/Skript/scripts"** folder. Then download the addons it needs:
  - [skript-mirror](https://github.com/btk5h/skript-mirror/releases)
  - [SkUtilities](https://github.com/tim740/skUtilities/releases)
  - [skript-yaml](https://github.com/Sashie/skript-yaml/releases)
