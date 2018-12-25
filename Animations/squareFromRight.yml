@@ -79,5 +79,5 @@
                 '27':
                     item: blue glass
     only_item: blue glass
-    time: 3 ticks
+    time_per_frame: 3 ticks
     sound_per_frame: block.anvil.break

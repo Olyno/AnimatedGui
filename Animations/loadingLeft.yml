@@ -1,0 +1,330 @@
+6_rows:
+    frames:
+        '0':
+            slots:
+                '17':
+                    item: air
+                '8':
+                    item: blue glass
+                '7':
+                    item: blue glass
+                '6':
+                    item: blue glass
+                '5':
+                    item: blue glass
+        '1':
+            slots:
+                '8':
+                    item: air
+                '7':
+                    item: blue glass
+                '6':
+                    item: blue glass
+                '5':
+                    item: blue glass
+                '4':
+                    item: blue glass
+        '2':
+            slots:
+                '7':
+                    item: air
+                '6':
+                    item: blue glass
+                '5':
+                    item: blue glass
+                '4':
+                    item: blue glass
+                '3':
+                    item: blue glass
+        '3':
+            slots:
+                '6':
+                    item: air
+                '5':
+                    item: blue glass
+                '4':
+                    item: blue glass
+                '3':
+                    item: blue glass
+                '2':
+                    item: blue glass
+        '4':
+            slots:
+                '5':
+                    item: air
+                '4':
+                    item: blue glass
+                '3':
+                    item: blue glass
+                '2':
+                    item: blue glass
+                '1':
+                    item: blue glass
+        '5':
+            slots:
+                '4':
+                    item: air
+                '3':
+                    item: blue glass
+                '2':
+                    item: blue glass
+                '1':
+                    item: blue glass
+                '0':
+                    item: blue glass
+        '6':
+            slots:
+                '3':
+                    item: air
+                '2':
+                    item: blue glass
+                '1':
+                    item: blue glass
+                '0':
+                    item: blue glass
+                '9':
+                    item: blue glass
+        '7':
+            slots:
+                '2':
+                    item: air
+                '1':
+                    item: blue glass
+                '0':
+                    item: blue glass
+                '9':
+                    item: blue glass
+                '18':
+                    item: blue glass
+        '8':
+            slots:
+                '1':
+                    item: air
+                '0':
+                    item: blue glass
+                '9':
+                    item: blue glass
+                '18':
+                    item: blue glass
+                '27':
+                    item: blue glass
+        '9':
+            slots:
+                '0':
+                    item: air
+                '9':
+                    item: blue glass
+                '18':
+                    item: blue glass
+                '27':
+                    item: blue glass
+                '36':
+                    item: blue glass
+        '10':
+            slots:
+                '9':
+                    item: air
+                '18':
+                    item: blue glass
+                '27':
+                    item: blue glass
+                '36':
+                    item: blue glass
+                '45':
+                    item: blue glass
+        '11':
+            slots:
+                '18':
+                    item: air
+                '27':
+                    item: blue glass
+                '36':
+                    item: blue glass
+                '45':
+                    item: blue glass
+                '46':
+                    item: blue glass
+        '12':
+            slots:
+                '27':
+                    item: air
+                '36':
+                    item: blue glass
+                '45':
+                    item: blue glass
+                '46':
+                    item: blue glass
+                '47':
+                    item: blue glass
+        '13':
+            slots:
+                '36':
+                    item: air
+                '45':
+                    item: blue glass
+                '46':
+                    item: blue glass
+                '47':
+                    item: blue glass
+                '48':
+                    item: blue glass
+        '14':
+            slots:
+                '45':
+                    item: air
+                '46':
+                    item: blue glass
+                '47':
+                    item: blue glass
+                '48':
+                    item: blue glass
+                '49':
+                    item: blue glass
+        '15':
+            slots:
+                '46':
+                    item: air
+                '47':
+                    item: blue glass
+                '48':
+                    item: blue glass
+                '49':
+                    item: blue glass
+                '50':
+                    item: blue glass
+        '16':
+            slots:
+                '47':
+                    item: air
+                '48':
+                    item: blue glass
+                '49':
+                    item: blue glass
+                '50':
+                    item: blue glass
+                '51':
+                    item: blue glass
+        '17':
+            slots:
+                '48':
+                    item: air
+                '49':
+                    item: blue glass
+                '50':
+                    item: blue glass
+                '51':
+                    item: blue glass
+                '52':
+                    item: blue glass
+        '18':
+            slots:
+                '49':
+                    item: air
+                '50':
+                    item: blue glass
+                '51':
+                    item: blue glass
+                '52':
+                    item: blue glass
+                '53':
+                    item: blue glass
+        '19':
+            slots:
+                '50':
+                    item: air
+                '51':
+                    item: blue glass
+                '52':
+                    item: blue glass
+                '53':
+                    item: blue glass
+                '44':
+                    item: blue glass
+        '20':
+            slots:
+                '51':
+                    item: air
+                '52':
+                    item: blue glass
+                '53':
+                    item: blue glass
+                '44':
+                    item: blue glass
+                '35':
+                    item: blue glass
+        '21':
+            slots:
+                '52':
+                    item: air
+                '53':
+                    item: blue glass
+                '44':
+                    item: blue glass
+                '35':
+                    item: blue glass
+                '26':
+                    item: blue glass
+        '22':
+            slots:
+                '53':
+                    item: air
+                '44':
+                    item: blue glass
+                '35':
+                    item: blue glass
+                '26':
+                    item: blue glass
+                '17':
+                    item: blue glass
+        '23':
+            slots:
+                '44':
+                    item: air
+                '35':
+                    item: blue glass
+                '26':
+                    item: blue glass
+                '17':
+                    item: blue glass
+                '8':
+                    item: blue glass
+        '24':
+            slots:
+                '35':
+                    item: air
+                '26':
+                    item: blue glass
+                '17':
+                    item: blue glass
+                '8':
+                    item: blue glass
+                '7':
+                    item: blue glass
+        '25':
+            slots:
+                '26':
+                    item: air
+                '17':
+                    item: blue glass
+                '8':
+                    item: blue glass
+                '7':
+                    item: blue glass
+                '6':
+                    item: blue glass
+        '26':
+            slots:
+                '17':
+                    item: air
+                '8':
+                    item: blue glass
+                '7':
+                    item: blue glass
+                '6':
+                    item: blue glass
+                '5':
+                    item: blue glass
+    only_item: blue glass
+    time_per_frame: 3 ticks
+    sound_per_frame: block.anvil.break
+    looped: true
