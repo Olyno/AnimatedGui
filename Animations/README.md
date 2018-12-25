@@ -89,3 +89,7 @@
 **squareFromRight:**
 
 ![](https://i.imgur.com/eRPwb4t.gif)
+
+**loadingLeft:**
+
+![](https://i.imgur.com/JUeDp04.gif)
