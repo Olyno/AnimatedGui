@@ -2,21 +2,36 @@
 
 **What is:** _(about the example below) (Explained in the order)_
 
- - "6_rows": 6_rows represents the number of rows required for this animation. Here, this animation can only be used in the guis of 6 rows.
- - "frames": frames represent the steps of the animation. They will be read in order. The "ids" of the frames do not matter.
- - "0": 0 is the id of the frame.
- - "duration": duration is the time that the frame will last.
- - "slots": slots is the list of all slots which will change in this frame.
- - "0": 0 is the slot n°0 of the gui.
- - "name": name is the name of the item in the current slot.
- - "lores": lores are the lores of the item in the current slot.
- - "enchants": enchants are the enchants of the item in the current slot.
- - "item": item is the item of the current slot.
- - "sound": sound is the sound that the slot will last.
- - "duration": duration is the time that the slot will last.
- - "only_item": This part was created to be able to create an animation with only one item. All your animation will be done with the same item, the same enchantments etc... (same parameters that a slot)
- - "time_per_frame": time_per_frame is the time between each frame. The time of the slots will always be more important than the time of the frames.
- - "sound_per_frame": sound_per_frame is the sound that will be play between each frame. The sound of the slots will always be more important than the time of the frames.
+ - "6_rows":
+   - 6_rows represents the number of rows required for this animation. Here, this animation can only be used in the guis of 6 rows.
+ - "frames":
+    - frames represent the steps of the animation. They will be read in order. The "ids" of the frames do not matter.
+ - "0": 
+    - 0 is the id of the frame.
+ - "duration": 
+    - duration is the time that the frame will last.
+ - "slots":
+     - slots is the list of all slots which will change in this frame.
+ - "0": 
+     - 0 is the slot n°0 of the gui.
+ - "name": 
+     - name is the name of the item in the current slot.
+ - "lores": 
+     - lores are the lores of the item in the current slot.
+ - "enchants": 
+     - enchants are the enchants of the item in the current slot.
+ - "item": 
+     - item is the item of the current slot.
+ - "sound": 
+     - sound is the sound that the slot will last.
+ - "duration": 
+     - duration is the time that the slot will last.
+ - "only_item": 
+     - This part was created to be able to create an animation with only one item. All your animation will be done with the same item, the same enchantments etc... (same parameters that a slot)
+ - "time_per_frame": 
+     - time_per_frame is the time between each frame. The time of the slots will always be more important than the time of the frames.
+ - "sound_per_frame": 
+     - sound_per_frame is the sound that will be play between each frame. The sound of the slots will always be more important than the time of the frames.
 
 **Parameters availables:**
 
