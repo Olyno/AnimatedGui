@@ -16,6 +16,12 @@ Animate your guis in Skript!
 
 > It's very simple. First, create your animation. After that, use the "ScreenToGif" software to make an animation gif in your gui. After that, make an issue on the github or a pull request of your animation. If no problems occur, then your animation will be accepted and anyone using the "AnimatedGuis" tool can use your animation!
 
+**Important:** The gui of you use must to have the name ``&9Main``.
+
 **Who can use my animations?**
 
 > Anyone who has the "AnimatedGuis" tool in their scripts. All they need to do is to retrieve the animation you made and place it in their **"plugins/AnimatedGuis/Animations"** folders.
+
+**How can I create my animation?**
+
+> You can use an example and edit it to make your proper animation. More informations [here](https://github.com/AlexLew95/AnimatedGui/blob/master/Animations/README.md).
