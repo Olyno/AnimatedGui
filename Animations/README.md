@@ -32,6 +32,8 @@
      - time_per_frame is the time between each frame. The time of the slots will always be more important than the time of the frames.
  - "sound_per_frame": 
      - sound_per_frame is the sound that will be play between each frame. The sound of the slots will always be more important than the time of the frames.
+ - "looped":
+     - looped is if you want to loop the animation a infinite time.
 
 **Parameters availables:**
 
@@ -67,6 +69,7 @@
         item: /
     time_per_frame: 3 ticks
     sound_per_frame: block.anvil.break
+    looped: false
  ```
 
 ## List of all animations available:
