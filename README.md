@@ -5,7 +5,13 @@ Animate your guis in Skript!
 
  1) Open a gui with the name of you want.
  2) Create a gui in ``plugins/AnimatedGuis/Guis`` with the name (uncoloured) of your gui.
- 3) Do a ``/sk reload all`` and enjoy the animation that you selected!
+ 3) Do a ``/sk reload all``
+ 4) Open a chest with the name of your guis and enjoy the animation that you selected!
+ 
+ **Example:**
+ ```vb
+open chest inventory with 6 row with name "&9Main" to player
+```
 
 # FAQ
 
