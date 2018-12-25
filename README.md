@@ -1,6 +1,12 @@
 # AnimatedGui
 Animate your guis in Skript!
 
+**How work with AnimatedGui?**
+
+ 1) Open a gui with the name of you want.
+ 2) Create a gui in ``plugins/AnimatedGuis/Guis`` with the name (uncoloured) of your gui.
+ 3) Do a ``/sk reload all`` and enjoy the animation that you selected!
+
 # FAQ
 
 **How can I install this tool?**
@@ -20,7 +26,7 @@ Animate your guis in Skript!
 
 **Who can use my animations?**
 
-> Anyone who has the "AnimatedGuis" tool in their scripts. All they need to do is to retrieve the animation you made and place it in their **"plugins/AnimatedGuis/Animations"** folders.
+> Anyone who has the "AnimatedGuis" tool in their scripts. All they need to do is to retrieve the animation you made and place it in their ``plugins/AnimatedGuis/Animations`` folders.
 
 **How can I create my animation?**
 
