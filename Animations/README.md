@@ -37,14 +37,15 @@
 
 **Parameters availables:**
 
-| Parameter's name | Type          | Can be used in |
-|------------------|---------------|----------------|
-| name             | String        | slots          |
-| lores            | Strings List  | slots          |
-| enchants         | Enchants List | slots          |
-| item             | Item Stack    | slots          |
-| sound            | String        | everywhere     |
-| duration         | Timespan      | everywhere     |
+| Parameter's name | Type          | Can be used in       |
+|------------------|---------------|----------------------|
+| name             | String        | slots                |
+| lores            | Strings List  | slots                |
+| enchants         | Enchants List | slots                |
+| item             | Item Stack    | slots                |
+| sound            | String        | everywhere           |
+| duration         | Timespan      | everywhere           |
+| looped           | Boolean       | animation itself     |
 
 **Example of simple animation:**
  
