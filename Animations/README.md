@@ -93,4 +93,4 @@
 
 **loadingLeft:**
 
-![](https://i.imgur.com/JUeDp04.gif)
+![](https://i.imgur.com/1fNZ4iz.gif)
