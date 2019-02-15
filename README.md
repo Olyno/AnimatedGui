@@ -13,6 +13,8 @@ Animate your guis in Skript!
 open chest inventory with 6 row with name "&9Main" to player
 ```
 
+Examples are created when Skript starts.
+
 # FAQ
 
 **How can I install this tool?**
